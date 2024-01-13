@@ -11,3 +11,4 @@ Ghostefx/Ghostefx is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![fat cave2](https://github.com/Ghostefx/Ghostefx/assets/127989555/8103e999-9982-4153-be35-8269677dbcca)
+![fat cave](https://github.com/Ghostefx/Ghostefx/assets/127989555/cf5d1058-4af5-4d7e-a1e9-18e74b83f840)
